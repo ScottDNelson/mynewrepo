@@ -1,5 +1,6 @@
 function double(num)
 {
+   // fixed
    return x * 2;
 }
 
